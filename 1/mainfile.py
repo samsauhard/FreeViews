@@ -1,0 +1,17 @@
+from subprocess import *
+import time
+Popen('python viewbot.py')
+time.sleep(2)
+Popen('python viewbot1.py')
+time.sleep(1)
+Popen('python viewbot2.py')
+time.sleep(3)
+Popen('python viewbot3.py')
+time.sleep(1)
+Popen('python viewbot4.py')
+time.sleep(2)
+Popen('python viewbot5.py')
+time.sleep(1)
+Popen('python viewbot6.py')
+time.sleep(2)
+Popen('python viewbot7.py')

@@ -1,0 +1,11 @@
+[1231/173251.629:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0104/024753.318:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0104/025036.561:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0104/025319.733:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0104/025546.547:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0104/025902.340:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0106/221855.498:ERROR:file_io.cc(90)] ReadExactly: expected 36, observed 0
+[0107/012354.717:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Sachin\AppData\Local\Temp\scoped_dir13404_975248173\Crashpad\attachments\16979ffe-c1fc-468b-ad90-f2ffbc7da201: The system cannot find the path specified. (0x3)
+[0107/012354.719:ERROR:file_io_win.cc(162)] CreateFile C:\Users\Sachin\AppData\Local\Temp\scoped_dir12428_1748391958\Crashpad\settings.dat: The system cannot find the file specified. (0x2)
+[0107/012355.190:ERROR:file_io_win.cc(162)] CreateFile C:\Users\Sachin\AppData\Local\Temp\scoped_dir23840_2098807751\Crashpad\settings.dat: The system cannot find the file specified. (0x2)
+[0107/012355.454:ERROR:file_io_win.cc(162)] CreateFile C:\Users\Sachin\AppData\Local\Temp\scoped_dir13404_975248173\Crashpad\reports\16979ffe-c1fc-468b-ad90-f2ffbc7da201.dmp: The system cannot find the path specified. (0x3)
