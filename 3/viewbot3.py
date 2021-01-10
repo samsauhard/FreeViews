@@ -45,7 +45,7 @@ def search_and_click(ua,sleep_time,top5,proxy,proxies,sleep_after):
     try:
         #driver = webdriver.Chrome(chrome_options=options)
     #query = search_string_to_query(search_string)
-        driver.get('https://dai.ly/x7yixdy')
+        driver.get('https://dai.ly/x7yixcn')
         #driver.get('https://www.dailymotion.com/video/x7yfnh3')
         
 
