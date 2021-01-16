@@ -26,4 +26,4 @@ RUN chmod +x /usr/local/bin/chromedriver || rm /usr/local/bin/chromedriver.zip
 
 
 # Run the web service on container startup.
-CMD [ "python", "mainfile.py" ]
+CMD [ "python", "viewbot.py" ]
