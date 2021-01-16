@@ -40,10 +40,10 @@ def search_and_click(ua,sleep_time,top5,proxy,proxies,sleep_after):
     options1.add_argument('--no-sandbox')
     options1.add_argument("--disable-gpu")
     options1.add_argument('--proxy-server=%s'%(proxy['ip'] + ':' + proxy['port']))
-    options1.binary_location = os.environ.get('GOOGLE_CHROME_PATH')
+    #options1.binary_location = os.environ.get('GOOGLE_CHROME_PATH')
     #options1.add_argument('user-agent=%s'%ua.random)
 
-    driver = webdriver.Chrome(os.environ.get('CHROMEDRIVER_PATH'),options=options1)
+    driver = webdriver.Chrome(executable_path="/usr/local/bin/chromedriver",options=options1)
     #options.add_experimental_option( "prefs",{'profile.managed_default_content_settings.javascript': 2})
 
     
