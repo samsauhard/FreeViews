@@ -17,6 +17,8 @@ RUN dpkg -i google-chrome-stable_current_amd64.deb; apt-get -fy install
 # Install dependencies.
 RUN pip install -r requirements.txt
 
+RUN pip install os
+
 # Copy local code to the container image.
 COPY . .
 
