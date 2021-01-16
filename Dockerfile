@@ -18,7 +18,12 @@ RUN dpkg -i google-chrome-stable_current_amd64.deb; apt-get -fy install
 RUN pip install -r requirements.txt
 
 RUN pip install os
+RUN apt-get install -y chromium-browser
 
+# Install chromedriver for Chromium
+RUN curl https://chromedriver.storage.googleapis.com/75.0.3770.140/chromedriver_linux64.zip -o /usr/local/bin/chromedriver.zip
+RUN unzip /usr/local/bin/chromedriver.zip -d /usr/local/bin/
+RUN chmod +x /usr/local/bin/chromedriver || rm /usr/local/bin/chromedriver.zip
 # Copy local code to the container image.
 COPY . .
 
