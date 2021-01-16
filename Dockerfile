@@ -3,7 +3,7 @@ FROM python:3
 ENV HOME /root
 WORKDIR $HOME
 # Create and change to the app directory
-
+COPY . .
 # Copy application dependency manifests to the container image.
 # A wildcard is used to ensure both package.json AND package-lock.json are copied.
 # Copying this separately prevents re-running npm install on every code change.
@@ -25,7 +25,7 @@ RUN curl https://chromedriver.storage.googleapis.com/75.0.3770.140/chromedriver_
 RUN unzip /usr/local/bin/chromedriver.zip -d /usr/local/bin/
 RUN chmod +x /usr/local/bin/chromedriver || rm /usr/local/bin/chromedriver.zip
 # Copy local code to the container image.
-COPY . .
+
 
 # Run the web service on container startup.
 CMD [ "python", "mainfile.py" ]
