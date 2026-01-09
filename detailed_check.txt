@@ -1,0 +1,200 @@
+2026-01-06 11:34:56,922 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.169/win32/chromedriver-win32.zip
+2026-01-06 11:34:57,029 - INFO - Driver downloading response is 200
+2026-01-06 11:34:57,368 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:34:57,517 - ERROR - Failed to initialize driver: [WinError 5] Access is denied: 'C:\\Users\\samsa\\.wdm\\drivers\\chromedriver\\win64\\143.0.7499.169\\chromedriver-win32\\chromedriver.exe' -> 'C:\\Users\\samsa\\.wdm\\drivers\\chromedriver\\win64\\143.0.7499.169\\chromedriver.exe'
+2026-01-06 11:34:57,521 - INFO - Worker 0 session finished.
+2026-01-06 11:34:57,522 - INFO - Worker 0 selected proxy: 45.38.114.55:5968:txuwyquy:3zrvb8axozjn. Attempting session...
+2026-01-06 11:34:57,535 - INFO - ====== WebDriver manager ======
+2026-01-06 11:34:58,024 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:34:58,114 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:34:58,208 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:34:58,456 - INFO - WebDriver version 143.0.7499.169 selected
+2026-01-06 11:34:58,467 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.169/win32/chromedriver-win32.zip
+2026-01-06 11:34:58,467 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.169/win32/chromedriver-win32.zip
+2026-01-06 11:34:58,580 - INFO - Driver downloading response is 200
+2026-01-06 11:34:58,916 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:34:59,050 - ERROR - Failed to initialize driver: [WinError 5] Access is denied: 'C:\\Users\\samsa\\.wdm\\drivers\\chromedriver\\win64\\143.0.7499.169\\chromedriver-win32\\chromedriver.exe' -> 'C:\\Users\\samsa\\.wdm\\drivers\\chromedriver\\win64\\143.0.7499.169\\chromedriver.exe'
+2026-01-06 11:34:59,055 - INFO - Worker 3 session finished.
+2026-01-06 11:34:59,057 - INFO - Worker 3 selected proxy: 181.214.6.142:5327:txuwyquy:3zrvb8axozjn. Attempting session...
+2026-01-06 11:34:59,065 - INFO - ====== WebDriver manager ======
+2026-01-06 11:34:59,536 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:34:59,625 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:34:59,717 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:34:59,766 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:34:59,846 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:34:59,985 - INFO - WebDriver version 143.0.7499.169 selected
+2026-01-06 11:34:59,995 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.169/win32/chromedriver-win32.zip
+2026-01-06 11:34:59,995 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.169/win32/chromedriver-win32.zip
+2026-01-06 11:35:00,004 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:00,109 - INFO - Driver downloading response is 200
+2026-01-06 11:35:00,267 - INFO - WebDriver version 143.0.7499.169 selected
+2026-01-06 11:35:00,287 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.169/win32/chromedriver-win32.zip
+2026-01-06 11:35:00,292 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.169/win32/chromedriver-win32.zip
+2026-01-06 11:35:00,485 - INFO - Driver downloading response is 200
+2026-01-06 11:35:00,499 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:00,629 - ERROR - Failed to initialize driver: [WinError 5] Access is denied: 'C:\\Users\\samsa\\.wdm\\drivers\\chromedriver\\win64\\143.0.7499.169\\chromedriver-win32\\chromedriver.exe' -> 'C:\\Users\\samsa\\.wdm\\drivers\\chromedriver\\win64\\143.0.7499.169\\chromedriver.exe'
+2026-01-06 11:35:00,632 - INFO - Worker 2 session finished.
+2026-01-06 11:35:00,634 - INFO - Worker 2 selected proxy: 92.119.182.160:6805:txuwyquy:3zrvb8axozjn. Attempting session...
+2026-01-06 11:35:00,640 - INFO - ====== WebDriver manager ======
+2026-01-06 11:35:00,849 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:01,016 - ERROR - Failed to initialize driver: [WinError 5] Access is denied: 'C:\\Users\\samsa\\.wdm\\drivers\\chromedriver\\win64\\143.0.7499.169\\chromedriver-win32\\chromedriver.exe' -> 'C:\\Users\\samsa\\.wdm\\drivers\\chromedriver\\win64\\143.0.7499.169\\chromedriver.exe'
+2026-01-06 11:35:01,020 - INFO - Worker 1 session finished.
+2026-01-06 11:35:01,021 - INFO - Worker 1 selected proxy: 45.131.94.247:6234:txuwyquy:3zrvb8axozjn. Attempting session...
+2026-01-06 11:35:01,030 - INFO - ====== WebDriver manager ======
+2026-01-06 11:35:01,043 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:01,136 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:01,221 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:01,484 - INFO - WebDriver version 143.0.7499.169 selected
+2026-01-06 11:35:01,494 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.169/win32/chromedriver-win32.zip
+2026-01-06 11:35:01,494 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.169/win32/chromedriver-win32.zip
+2026-01-06 11:35:01,604 - INFO - Driver downloading response is 200
+2026-01-06 11:35:01,951 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:02,105 - ERROR - Failed to initialize driver: [WinError 5] Access is denied: 'C:\\Users\\samsa\\.wdm\\drivers\\chromedriver\\win64\\143.0.7499.169\\chromedriver-win32\\chromedriver.exe' -> 'C:\\Users\\samsa\\.wdm\\drivers\\chromedriver\\win64\\143.0.7499.169\\chromedriver.exe'
+2026-01-06 11:35:02,109 - INFO - Worker 0 session finished.
+2026-01-06 11:35:02,110 - INFO - Worker 0 selected proxy: 82.23.211.88:5417:txuwyquy:3zrvb8axozjn. Attempting session...
+2026-01-06 11:35:02,116 - INFO - ====== WebDriver manager ======
+2026-01-06 11:35:02,372 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:02,447 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:02,534 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:02,803 - INFO - WebDriver version 143.0.7499.169 selected
+2026-01-06 11:35:02,812 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.169/win32/chromedriver-win32.zip
+2026-01-06 11:35:02,812 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.169/win32/chromedriver-win32.zip
+2026-01-06 11:35:02,923 - INFO - Driver downloading response is 200
+2026-01-06 11:35:03,280 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:03,423 - ERROR - Failed to initialize driver: [WinError 5] Access is denied: 'C:\\Users\\samsa\\.wdm\\drivers\\chromedriver\\win64\\143.0.7499.169\\chromedriver-win32\\chromedriver.exe' -> 'C:\\Users\\samsa\\.wdm\\drivers\\chromedriver\\win64\\143.0.7499.169\\chromedriver.exe'
+2026-01-06 11:35:03,426 - INFO - Worker 3 session finished.
+2026-01-06 11:35:03,427 - INFO - Worker 3 selected proxy: 150.107.202.236:6853:txuwyquy:3zrvb8axozjn. Attempting session...
+2026-01-06 11:35:03,433 - INFO - ====== WebDriver manager ======
+2026-01-06 11:35:03,937 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:04,021 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:04,113 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:04,369 - INFO - WebDriver version 143.0.7499.169 selected
+2026-01-06 11:35:04,381 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.169/win32/chromedriver-win32.zip
+2026-01-06 11:35:04,381 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.169/win32/chromedriver-win32.zip
+2026-01-06 11:35:04,494 - INFO - Driver downloading response is 200
+2026-01-06 11:35:04,519 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:04,618 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:04,770 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:04,892 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:05,066 - INFO - WebDriver version 143.0.7499.169 selected
+2026-01-06 11:35:05,075 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.169/win32/chromedriver-win32.zip
+2026-01-06 11:35:05,075 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.169/win32/chromedriver-win32.zip
+2026-01-06 11:35:05,080 - ERROR - Failed to initialize driver: [WinError 5] Access is denied: 'C:\\Users\\samsa\\.wdm\\drivers\\chromedriver\\win64\\143.0.7499.169\\chromedriver-win32\\chromedriver.exe' -> 'C:\\Users\\samsa\\.wdm\\drivers\\chromedriver\\win64\\143.0.7499.169\\chromedriver.exe'
+2026-01-06 11:35:05,084 - INFO - Worker 2 session finished.
+2026-01-06 11:35:05,085 - INFO - Worker 2 selected proxy: 193.239.176.26:5432:txuwyquy:3zrvb8axozjn. Attempting session...
+2026-01-06 11:35:05,089 - INFO - ====== WebDriver manager ======
+2026-01-06 11:35:05,199 - INFO - Driver downloading response is 200
+2026-01-06 11:35:05,350 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:05,444 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:05,563 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:05,581 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:05,724 - ERROR - Failed to initialize driver: [WinError 5] Access is denied: 'C:\\Users\\samsa\\.wdm\\drivers\\chromedriver\\win64\\143.0.7499.169\\chromedriver-win32\\chromedriver.exe' -> 'C:\\Users\\samsa\\.wdm\\drivers\\chromedriver\\win64\\143.0.7499.169\\chromedriver.exe'
+2026-01-06 11:35:05,729 - INFO - Worker 1 session finished.
+2026-01-06 11:35:05,730 - INFO - Worker 1 selected proxy: 104.252.71.83:6011:txuwyquy:3zrvb8axozjn. Attempting session...
+2026-01-06 11:35:05,738 - INFO - ====== WebDriver manager ======
+2026-01-06 11:35:05,826 - INFO - WebDriver version 143.0.7499.169 selected
+2026-01-06 11:35:05,838 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.169/win32/chromedriver-win32.zip
+2026-01-06 11:35:05,839 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.169/win32/chromedriver-win32.zip
+2026-01-06 11:35:05,948 - INFO - Driver downloading response is 200
+2026-01-06 11:35:06,282 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:06,451 - ERROR - Failed to initialize driver: [WinError 5] Access is denied: 'C:\\Users\\samsa\\.wdm\\drivers\\chromedriver\\win64\\143.0.7499.169\\chromedriver-win32\\chromedriver.exe' -> 'C:\\Users\\samsa\\.wdm\\drivers\\chromedriver\\win64\\143.0.7499.169\\chromedriver.exe'
+2026-01-06 11:35:06,454 - INFO - Worker 0 session finished.
+2026-01-06 11:35:06,456 - INFO - Worker 0 selected proxy: 82.23.230.140:7944:txuwyquy:3zrvb8axozjn. Attempting session...
+2026-01-06 11:35:06,462 - INFO - ====== WebDriver manager ======
+2026-01-06 11:35:06,927 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:07,007 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:07,089 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:07,357 - INFO - WebDriver version 143.0.7499.169 selected
+2026-01-06 11:35:07,365 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.169/win32/chromedriver-win32.zip
+2026-01-06 11:35:07,365 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.169/win32/chromedriver-win32.zip
+2026-01-06 11:35:07,471 - INFO - Driver downloading response is 200
+2026-01-06 11:35:07,843 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:07,997 - ERROR - Failed to initialize driver: [WinError 5] Access is denied: 'C:\\Users\\samsa\\.wdm\\drivers\\chromedriver\\win64\\143.0.7499.169\\chromedriver-win32\\chromedriver.exe' -> 'C:\\Users\\samsa\\.wdm\\drivers\\chromedriver\\win64\\143.0.7499.169\\chromedriver.exe'
+2026-01-06 11:35:08,001 - INFO - Worker 3 session finished.
+2026-01-06 11:35:08,003 - INFO - Worker 3 selected proxy: 45.131.101.92:6359:txuwyquy:3zrvb8axozjn. Attempting session...
+2026-01-06 11:35:08,007 - INFO - ====== WebDriver manager ======
+2026-01-06 11:35:08,024 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:08,109 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:08,204 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:08,439 - INFO - WebDriver version 143.0.7499.169 selected
+2026-01-06 11:35:08,447 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.169/win32/chromedriver-win32.zip
+2026-01-06 11:35:08,448 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.169/win32/chromedriver-win32.zip
+2026-01-06 11:35:08,564 - INFO - Driver downloading response is 200
+2026-01-06 11:35:08,945 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:09,072 - ERROR - Failed to initialize driver: [WinError 5] Access is denied: 'C:\\Users\\samsa\\.wdm\\drivers\\chromedriver\\win64\\143.0.7499.169\\chromedriver-win32\\chromedriver.exe' -> 'C:\\Users\\samsa\\.wdm\\drivers\\chromedriver\\win64\\143.0.7499.169\\chromedriver.exe'
+2026-01-06 11:35:09,076 - INFO - Worker 2 session finished.
+2026-01-06 11:35:09,077 - INFO - Worker 2 selected proxy: 82.23.221.210:6540:txuwyquy:3zrvb8axozjn. Attempting session...
+2026-01-06 11:35:09,084 - INFO - ====== WebDriver manager ======
+2026-01-06 11:35:09,101 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:09,190 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:09,285 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:09,562 - INFO - WebDriver version 143.0.7499.169 selected
+2026-01-06 11:35:09,573 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.169/win32/chromedriver-win32.zip
+2026-01-06 11:35:09,573 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.169/win32/chromedriver-win32.zip
+2026-01-06 11:35:09,693 - INFO - Driver downloading response is 200
+2026-01-06 11:35:10,015 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:10,071 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:10,129 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:10,208 - ERROR - Failed to initialize driver: [WinError 5] Access is denied: 'C:\\Users\\samsa\\.wdm\\drivers\\chromedriver\\win64\\143.0.7499.169\\chromedriver-win32\\chromedriver.exe' -> 'C:\\Users\\samsa\\.wdm\\drivers\\chromedriver\\win64\\143.0.7499.169\\chromedriver.exe'
+2026-01-06 11:35:10,212 - INFO - Worker 1 session finished.
+2026-01-06 11:35:10,215 - INFO - Worker 1 selected proxy: 45.67.2.131:5705:txuwyquy:3zrvb8axozjn. Attempting session...
+2026-01-06 11:35:10,225 - INFO - ====== WebDriver manager ======
+2026-01-06 11:35:10,230 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:10,517 - INFO - WebDriver version 143.0.7499.169 selected
+2026-01-06 11:35:10,547 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.169/win32/chromedriver-win32.zip
+2026-01-06 11:35:10,547 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.169/win32/chromedriver-win32.zip
+2026-01-06 11:35:10,653 - INFO - Driver downloading response is 200
+2026-01-06 11:35:11,012 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:11,154 - ERROR - Failed to initialize driver: [WinError 5] Access is denied: 'C:\\Users\\samsa\\.wdm\\drivers\\chromedriver\\win64\\143.0.7499.169\\chromedriver-win32\\chromedriver.exe' -> 'C:\\Users\\samsa\\.wdm\\drivers\\chromedriver\\win64\\143.0.7499.169\\chromedriver.exe'
+2026-01-06 11:35:11,159 - INFO - Worker 0 session finished.
+2026-01-06 11:35:11,161 - INFO - Worker 0 selected proxy: 45.131.95.245:5909:txuwyquy:3zrvb8axozjn. Attempting session...
+2026-01-06 11:35:11,167 - INFO - ====== WebDriver manager ======
+2026-01-06 11:35:11,304 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:11,391 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:11,473 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:11,773 - INFO - WebDriver version 143.0.7499.169 selected
+2026-01-06 11:35:11,784 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.169/win32/chromedriver-win32.zip
+2026-01-06 11:35:11,785 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.169/win32/chromedriver-win32.zip
+2026-01-06 11:35:11,896 - INFO - Driver downloading response is 200
+2026-01-06 11:35:12,272 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:12,406 - ERROR - Failed to initialize driver: [WinError 5] Access is denied: 'C:\\Users\\samsa\\.wdm\\drivers\\chromedriver\\win64\\143.0.7499.169\\chromedriver-win32\\chromedriver.exe' -> 'C:\\Users\\samsa\\.wdm\\drivers\\chromedriver\\win64\\143.0.7499.169\\chromedriver.exe'
+2026-01-06 11:35:12,410 - INFO - Worker 3 session finished.
+2026-01-06 11:35:12,412 - INFO - Worker 3 selected proxy: 161.123.65.205:6914:txuwyquy:3zrvb8axozjn. Attempting session...
+2026-01-06 11:35:12,418 - INFO - ====== WebDriver manager ======
+2026-01-06 11:35:12,645 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:12,739 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:12,835 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:13,092 - INFO - WebDriver version 143.0.7499.169 selected
+2026-01-06 11:35:13,106 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.169/win32/chromedriver-win32.zip
+2026-01-06 11:35:13,106 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.169/win32/chromedriver-win32.zip
+2026-01-06 11:35:13,228 - INFO - Driver downloading response is 200
+2026-01-06 11:35:13,665 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:13,787 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:13,809 - ERROR - Failed to initialize driver: [WinError 5] Access is denied: 'C:\\Users\\samsa\\.wdm\\drivers\\chromedriver\\win64\\143.0.7499.169\\chromedriver-win32\\chromedriver.exe' -> 'C:\\Users\\samsa\\.wdm\\drivers\\chromedriver\\win64\\143.0.7499.169\\chromedriver.exe'
+2026-01-06 11:35:13,814 - INFO - Worker 2 session finished.
+2026-01-06 11:35:13,815 - INFO - Worker 2 selected proxy: 104.252.71.83:6011:txuwyquy:3zrvb8axozjn. Attempting session...
+2026-01-06 11:35:13,819 - INFO - ====== WebDriver manager ======
+2026-01-06 11:35:13,878 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:13,967 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:14,229 - INFO - WebDriver version 143.0.7499.169 selected
+2026-01-06 11:35:14,268 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.169/win32/chromedriver-win32.zip
+2026-01-06 11:35:14,268 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.169/win32/chromedriver-win32.zip
+2026-01-06 11:35:14,381 - INFO - Driver downloading response is 200
+2026-01-06 11:35:14,744 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:14,885 - ERROR - Failed to initialize driver: [WinError 5] Access is denied: 'C:\\Users\\samsa\\.wdm\\drivers\\chromedriver\\win64\\143.0.7499.169\\chromedriver-win32\\chromedriver.exe' -> 'C:\\Users\\samsa\\.wdm\\drivers\\chromedriver\\win64\\143.0.7499.169\\chromedriver.exe'
+2026-01-06 11:35:14,891 - INFO - Worker 1 session finished.
+2026-01-06 11:35:14,892 - INFO - Worker 1 selected proxy: 188.213.1.167:7073:txuwyquy:3zrvb8axozjn. Attempting session...
+2026-01-06 11:35:14,896 - INFO - ====== WebDriver manager ======
+2026-01-06 11:35:15,098 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:15,194 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:15,294 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:15,574 - INFO - WebDriver version 143.0.7499.169 selected
+2026-01-06 11:35:15,582 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.169/win32/chromedriver-win32.zip
+2026-01-06 11:35:15,582 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.169/win32/chromedriver-win32.zip
+2026-01-06 11:35:15,676 - INFO - Driver downloading response is 200
+2026-01-06 11:35:16,131 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:16,284 - ERROR - Failed to initialize driver: [WinError 5] Access is denied: 'C:\\Users\\samsa\\.wdm\\drivers\\chromedriver\\win64\\143.0.7499.169\\chromedriver-win32\\chromedriver.exe' -> 'C:\\Users\\samsa\\.wdm\\drivers\\chromedriver\\win64\\143.0.7499.169\\chromedriver.exe'
+2026-01-06 11:35:16,288 - INFO - Worker 0 session finished.
+2026-01-06 11:35:16,290 - INFO - Worker 0 selected proxy: 64.137.37.240:6830:txuwyquy:3zrvb8axozjn. Attempting session...
+2026-01-06 11:35:16,315 - INFO - ====== WebDriver manager ======
+2026-01-06 11:35:16,978 - INFO - Get LATEST chromedriver version for google-chrome

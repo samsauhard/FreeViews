@@ -1,11 +1,5 @@
-beautifulsoup4==4.9.3
-bs4==0.0.1
-fake-useragent==0.1.11
-http-request-randomizer==1.3.2
-httplib2==0.18.1
-selenium==3.14.1
-soupsieve==2.1
-uritemplate==3.0.1
-urllib3==1.25.6
-w3lib==1.22.0
-chromedriver-binary==79.0.3945.36
+selenium==4.16.0
+webdriver-manager==4.0.1
+fake-useragent==1.4.0
+requests==2.31.0
+beautifulsoup4==4.12.2

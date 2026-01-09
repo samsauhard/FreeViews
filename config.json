@@ -1,0 +1,12 @@
+{
+    "urls": [],
+    "search_string": "Your Search Here",
+    "min_watch_duration": 2500,
+    "max_watch_duration": 18000,
+    "sleep_after": 15,
+    "threads": 35,
+    "headless": true,
+    "primary_urls": [
+        "https://rumble.com/v742ni2-supply-demand-strategy-forex-gold-silver.html"
+    ]
+}

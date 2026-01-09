@@ -1,0 +1,126 @@
+2025-12-16 16:21:38,197 - INFO - Updated Dynamic Target Threads: 5 (Current Active: 0)
+2025-12-16 16:21:38,197 - INFO - Dynamic Concurrency Manager started. Range: 3-15
+2025-12-16 16:21:38,200 - INFO - Starting 15 worker threads...
+2025-12-16 16:21:38,247 - INFO - ====== WebDriver manager ======
+2025-12-16 16:21:38,247 - INFO - ====== WebDriver manager ======
+2025-12-16 16:21:38,248 - INFO - ====== WebDriver manager ======
+2025-12-16 16:21:38,249 - INFO - ====== WebDriver manager ======
+2025-12-16 16:21:38,249 - INFO - ====== WebDriver manager ======
+2025-12-16 16:21:38,249 - INFO - ====== WebDriver manager ======
+2025-12-16 16:21:38,250 - INFO - ====== WebDriver manager ======
+2025-12-16 16:21:38,251 - INFO - ====== WebDriver manager ======
+2025-12-16 16:21:38,251 - INFO - ====== WebDriver manager ======
+2025-12-16 16:21:38,252 - INFO - ====== WebDriver manager ======
+2025-12-16 16:21:38,252 - INFO - ====== WebDriver manager ======
+2025-12-16 16:21:38,253 - INFO - ====== WebDriver manager ======
+2025-12-16 16:21:41,026 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 16:21:41,144 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 16:21:41,171 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 16:21:41,212 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 16:21:41,249 - INFO - Driver [C:\Users\samsa\.wdm\drivers\chromedriver\win64\143.0.7499.146\chromedriver.exe] found in cache
+2025-12-16 16:21:41,272 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 16:21:41,290 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 16:21:41,359 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 16:21:41,383 - INFO - Driver [C:\Users\samsa\.wdm\drivers\chromedriver\win64\143.0.7499.146\chromedriver.exe] found in cache
+2025-12-16 16:21:41,383 - INFO - Driver [C:\Users\samsa\.wdm\drivers\chromedriver\win64\143.0.7499.146\chromedriver.exe] found in cache
+2025-12-16 16:21:41,422 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 16:21:41,446 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 16:21:41,451 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 16:21:41,459 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 16:21:41,460 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 16:21:41,475 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 16:21:41,514 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 16:21:41,516 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 16:21:41,522 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 16:21:41,538 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 16:21:41,545 - INFO - Driver [C:\Users\samsa\.wdm\drivers\chromedriver\win64\143.0.7499.146\chromedriver.exe] found in cache
+2025-12-16 16:21:41,546 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 16:21:41,555 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 16:21:41,555 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 16:21:41,555 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 16:21:41,615 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 16:21:41,622 - INFO - Driver [C:\Users\samsa\.wdm\drivers\chromedriver\win64\143.0.7499.146\chromedriver.exe] found in cache
+2025-12-16 16:21:41,623 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 16:21:41,630 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 16:21:41,635 - INFO - Driver [C:\Users\samsa\.wdm\drivers\chromedriver\win64\143.0.7499.146\chromedriver.exe] found in cache
+2025-12-16 16:21:41,663 - INFO - Driver [C:\Users\samsa\.wdm\drivers\chromedriver\win64\143.0.7499.146\chromedriver.exe] found in cache
+2025-12-16 16:21:41,667 - INFO - Driver [C:\Users\samsa\.wdm\drivers\chromedriver\win64\143.0.7499.146\chromedriver.exe] found in cache
+2025-12-16 16:21:41,671 - INFO - Driver [C:\Users\samsa\.wdm\drivers\chromedriver\win64\143.0.7499.146\chromedriver.exe] found in cache
+2025-12-16 16:21:41,713 - INFO - Driver [C:\Users\samsa\.wdm\drivers\chromedriver\win64\143.0.7499.146\chromedriver.exe] found in cache
+2025-12-16 16:21:41,719 - INFO - Driver [C:\Users\samsa\.wdm\drivers\chromedriver\win64\143.0.7499.146\chromedriver.exe] found in cache
+2025-12-16 16:21:41,739 - INFO - Driver [C:\Users\samsa\.wdm\drivers\chromedriver\win64\143.0.7499.146\chromedriver.exe] found in cache
+2025-12-16 16:23:56,212 - INFO - Updated Dynamic Target Threads: 4 (Current Active: 12)
+2025-12-16 16:28:41,222 - INFO - Updated Dynamic Target Threads: 6 (Current Active: 12)
+2025-12-16 16:33:00,231 - INFO - Updated Dynamic Target Threads: 13 (Current Active: 11)
+2025-12-16 16:33:00,906 - INFO - ====== WebDriver manager ======
+2025-12-16 16:33:02,239 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 16:33:02,353 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 16:33:02,425 - INFO - Driver [C:\Users\samsa\.wdm\drivers\chromedriver\win64\143.0.7499.146\chromedriver.exe] found in cache
+2025-12-16 16:33:04,343 - INFO - ====== WebDriver manager ======
+2025-12-16 16:33:05,309 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 16:33:05,378 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 16:33:05,450 - INFO - Driver [C:\Users\samsa\.wdm\drivers\chromedriver\win64\143.0.7499.146\chromedriver.exe] found in cache
+2025-12-16 16:35:24,240 - INFO - Updated Dynamic Target Threads: 11 (Current Active: 13)
+2025-12-16 16:38:42,252 - INFO - Updated Dynamic Target Threads: 7 (Current Active: 13)
+2025-12-16 16:41:22,263 - INFO - Updated Dynamic Target Threads: 3 (Current Active: 13)
+2025-12-16 16:44:02,261 - INFO - Updated Dynamic Target Threads: 13 (Current Active: 12)
+2025-12-16 16:44:05,555 - INFO - ====== WebDriver manager ======
+2025-12-16 16:44:05,555 - INFO - ====== WebDriver manager ======
+2025-12-16 16:44:06,773 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 16:44:06,789 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 16:44:06,866 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 16:44:06,882 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 16:44:06,957 - INFO - Driver [C:\Users\samsa\.wdm\drivers\chromedriver\win64\143.0.7499.146\chromedriver.exe] found in cache
+2025-12-16 16:44:06,972 - INFO - Driver [C:\Users\samsa\.wdm\drivers\chromedriver\win64\143.0.7499.146\chromedriver.exe] found in cache
+2025-12-16 16:46:51,273 - INFO - Updated Dynamic Target Threads: 8 (Current Active: 14)
+2025-12-16 16:49:44,286 - INFO - Updated Dynamic Target Threads: 5 (Current Active: 14)
+2025-12-16 16:53:54,285 - INFO - Updated Dynamic Target Threads: 11 (Current Active: 13)
+2025-12-16 16:58:46,295 - INFO - Updated Dynamic Target Threads: 3 (Current Active: 11)
+2025-12-16 17:01:56,305 - INFO - Updated Dynamic Target Threads: 5 (Current Active: 11)
+2025-12-16 17:06:46,309 - INFO - Updated Dynamic Target Threads: 7 (Current Active: 11)
+2025-12-16 17:11:17,323 - INFO - Updated Dynamic Target Threads: 5 (Current Active: 10)
+2025-12-16 17:15:19,331 - INFO - Updated Dynamic Target Threads: 7 (Current Active: 10)
+2025-12-16 17:18:56,331 - INFO - Updated Dynamic Target Threads: 7 (Current Active: 10)
+2025-12-16 17:23:20,334 - INFO - Updated Dynamic Target Threads: 15 (Current Active: 9)
+2025-12-16 17:23:22,645 - INFO - ====== WebDriver manager ======
+2025-12-16 17:23:23,021 - INFO - ====== WebDriver manager ======
+2025-12-16 17:23:23,852 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 17:23:24,060 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 17:23:24,201 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 17:23:24,206 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 17:23:24,264 - INFO - ====== WebDriver manager ======
+2025-12-16 17:23:24,418 - INFO - Driver [C:\Users\samsa\.wdm\drivers\chromedriver\win64\143.0.7499.146\chromedriver.exe] found in cache
+2025-12-16 17:23:24,422 - INFO - Driver [C:\Users\samsa\.wdm\drivers\chromedriver\win64\143.0.7499.146\chromedriver.exe] found in cache
+2025-12-16 17:23:24,503 - INFO - ====== WebDriver manager ======
+2025-12-16 17:23:24,960 - INFO - ====== WebDriver manager ======
+2025-12-16 17:23:25,178 - INFO - ====== WebDriver manager ======
+2025-12-16 17:23:25,579 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 17:23:25,687 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 17:23:25,765 - INFO - Driver [C:\Users\samsa\.wdm\drivers\chromedriver\win64\143.0.7499.146\chromedriver.exe] found in cache
+2025-12-16 17:23:26,447 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 17:23:26,535 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 17:23:26,600 - INFO - Driver [C:\Users\samsa\.wdm\drivers\chromedriver\win64\143.0.7499.146\chromedriver.exe] found in cache
+2025-12-16 17:23:26,748 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 17:23:26,835 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 17:23:26,920 - INFO - Driver [C:\Users\samsa\.wdm\drivers\chromedriver\win64\143.0.7499.146\chromedriver.exe] found in cache
+2025-12-16 17:27:05,333 - INFO - Updated Dynamic Target Threads: 3 (Current Active: 15)
+2025-12-16 17:29:59,344 - INFO - Updated Dynamic Target Threads: 14 (Current Active: 14)
+2025-12-16 17:33:09,356 - INFO - Updated Dynamic Target Threads: 14 (Current Active: 14)
+2025-12-16 17:37:08,879 - INFO - ====== WebDriver manager ======
+2025-12-16 17:37:10,522 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 17:37:10,644 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 17:37:10,706 - INFO - Driver [C:\Users\samsa\.wdm\drivers\chromedriver\win64\143.0.7499.146\chromedriver.exe] found in cache
+2025-12-16 17:37:43,357 - INFO - Updated Dynamic Target Threads: 15 (Current Active: 14)
+2025-12-16 17:37:43,620 - INFO - ====== WebDriver manager ======
+2025-12-16 17:37:44,839 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 17:37:44,920 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-16 17:37:44,996 - INFO - Driver [C:\Users\samsa\.wdm\drivers\chromedriver\win64\143.0.7499.146\chromedriver.exe] found in cache
+2025-12-16 17:39:49,365 - INFO - Updated Dynamic Target Threads: 8 (Current Active: 15)
+2025-12-16 17:42:27,377 - INFO - Updated Dynamic Target Threads: 14 (Current Active: 15)
+2025-12-16 17:47:17,383 - INFO - Updated Dynamic Target Threads: 3 (Current Active: 15)
+2025-12-16 17:51:03,399 - INFO - Updated Dynamic Target Threads: 11 (Current Active: 14)
+2025-12-16 17:55:18,411 - INFO - Updated Dynamic Target Threads: 12 (Current Active: 14)
+2025-12-16 17:59:16,416 - INFO - Updated Dynamic Target Threads: 4 (Current Active: 13)
+2025-12-16 18:01:34,421 - INFO - Updated Dynamic Target Threads: 7 (Current Active: 13)
+2025-12-16 18:04:25,434 - INFO - Updated Dynamic Target Threads: 7 (Current Active: 11)
+2025-12-16 18:07:34,447 - INFO - Updated Dynamic Target Threads: 9 (Current Active: 11)

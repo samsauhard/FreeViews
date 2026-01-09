@@ -1,0 +1,100 @@
+2026-01-06 11:35:56,908 - INFO - ====== WebDriver manager ======
+2026-01-06 11:35:56,992 - INFO - Driver has been saved in cache [C:\Users\samsa\.wdm\drivers\chromedriver\win64\143.0.7499.169]
+2026-01-06 11:35:57,419 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=64920): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/c6fe3e0adc2637934da5efbb9d799218/window/handles
+2026-01-06 11:35:58,297 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:58,375 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:35:58,481 - INFO - Driver [C:\Users\samsa\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2026-01-06 11:35:59,580 - INFO - Navigating to Target: https://rumble.com/v73xnwa-supply-demand-strategy-forex-gold-silver.html
+2026-01-06 11:35:59,631 - INFO - Navigating to Target: https://rumble.com/v73xnwa-supply-demand-strategy-forex-gold-silver.html
+2026-01-06 11:36:00,632 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=52951): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/bdc6ecb72b2fe4563aa42a3259bd95c9/window/handles
+2026-01-06 11:36:00,981 - INFO - Session started. Target Duration: 592s
+2026-01-06 11:36:01,223 - INFO - Navigating to Target: https://rumble.com/v73xnwa-supply-demand-strategy-forex-gold-silver.html
+2026-01-06 11:36:01,333 - INFO - Navigating to Target: https://rumble.com/v73xnwa-supply-demand-strategy-forex-gold-silver.html
+2026-01-06 11:36:01,474 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=64920): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/c6fe3e0adc2637934da5efbb9d799218/window/handles
+2026-01-06 11:36:01,771 - INFO - Session started. Target Duration: 1541s
+2026-01-06 11:36:03,471 - INFO - Session started. Target Duration: 255s
+2026-01-06 11:36:03,647 - INFO - Session started. Target Duration: 1151s
+2026-01-06 11:36:04,693 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=52951): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/bdc6ecb72b2fe4563aa42a3259bd95c9/window/handles
+2026-01-06 11:36:05,525 - ERROR - Session Error: HTTPConnectionPool(host='localhost', port=64920): Max retries exceeded with url: /session/c6fe3e0adc2637934da5efbb9d799218/window/handles (Caused by NewConnectionError("HTTPConnection(host='localhost', port=64920): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+2026-01-06 11:36:07,150 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=60841): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/ab01591e6204a620798ed56811ef70ca/window/handles
+2026-01-06 11:36:08,778 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=52951): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/bdc6ecb72b2fe4563aa42a3259bd95c9/window/handles
+2026-01-06 11:36:09,610 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=64920): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/c6fe3e0adc2637934da5efbb9d799218
+2026-01-06 11:36:10,320 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=54844): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/afc565b878868c29292a2eb2eb61a5c7/window/handles
+2026-01-06 11:36:11,233 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=60841): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/ab01591e6204a620798ed56811ef70ca/window/handles
+2026-01-06 11:36:12,843 - ERROR - Session Error: HTTPConnectionPool(host='localhost', port=52951): Max retries exceeded with url: /session/bdc6ecb72b2fe4563aa42a3259bd95c9/window/handles (Caused by NewConnectionError("HTTPConnection(host='localhost', port=52951): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+2026-01-06 11:36:13,674 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=64920): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/c6fe3e0adc2637934da5efbb9d799218
+2026-01-06 11:36:14,378 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=54844): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/afc565b878868c29292a2eb2eb61a5c7/window/handles
+2026-01-06 11:36:15,290 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=60841): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/ab01591e6204a620798ed56811ef70ca/window/handles
+2026-01-06 11:36:16,903 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=52951): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/bdc6ecb72b2fe4563aa42a3259bd95c9
+2026-01-06 11:36:17,738 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=64920): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/c6fe3e0adc2637934da5efbb9d799218
+2026-01-06 11:36:18,452 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=54844): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/afc565b878868c29292a2eb2eb61a5c7/window/handles
+2026-01-06 11:36:19,363 - ERROR - Session Error: HTTPConnectionPool(host='localhost', port=60841): Max retries exceeded with url: /session/ab01591e6204a620798ed56811ef70ca/window/handles (Caused by NewConnectionError("HTTPConnection(host='localhost', port=60841): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+2026-01-06 11:36:20,984 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=52951): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/bdc6ecb72b2fe4563aa42a3259bd95c9
+2026-01-06 11:36:22,534 - ERROR - Session Error: HTTPConnectionPool(host='localhost', port=54844): Max retries exceeded with url: /session/afc565b878868c29292a2eb2eb61a5c7/window/handles (Caused by NewConnectionError("HTTPConnection(host='localhost', port=54844): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+2026-01-06 11:36:23,447 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=60841): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/ab01591e6204a620798ed56811ef70ca
+2026-01-06 11:36:25,068 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=52951): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/bdc6ecb72b2fe4563aa42a3259bd95c9
+2026-01-06 11:36:25,907 - INFO - Worker 12 session finished.
+2026-01-06 11:36:26,619 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=54844): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/afc565b878868c29292a2eb2eb61a5c7
+2026-01-06 11:36:27,529 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=60841): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/ab01591e6204a620798ed56811ef70ca
+2026-01-06 11:36:30,694 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=54844): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/afc565b878868c29292a2eb2eb61a5c7
+2026-01-06 11:36:31,610 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=60841): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/ab01591e6204a620798ed56811ef70ca
+2026-01-06 11:36:33,239 - INFO - Worker 9 session finished.
+2026-01-06 11:36:34,787 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=54844): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/afc565b878868c29292a2eb2eb61a5c7
+2026-01-06 11:36:39,775 - INFO - Worker 10 session finished.
+2026-01-06 11:36:42,937 - INFO - Worker 7 session finished.
+2026-01-06 11:36:42,938 - INFO - Worker 7 selected proxy: 82.22.253.80:7938:txuwyquy:3zrvb8axozjn. Attempting session...
+2026-01-06 11:36:42,941 - INFO - ====== WebDriver manager ======
+2026-01-06 11:36:43,775 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:36:43,831 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:36:43,894 - INFO - Driver [C:\Users\samsa\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2026-01-06 11:36:45,317 - INFO - Navigating to Target: https://rumble.com/v73xnwa-supply-demand-strategy-forex-gold-silver.html
+2026-01-06 11:36:45,970 - INFO - Updated Dynamic Target Threads: 4 (Current Active: 0)
+2026-01-06 11:36:45,970 - INFO - Dynamic Concurrency Manager started. Range: 3-15
+2026-01-06 11:36:45,971 - INFO - Starting 15 worker threads...
+2026-01-06 11:36:45,971 - INFO - Worker 0 started loop
+2026-01-06 11:36:45,972 - INFO - Worker 0 selected proxy: 103.75.229.113:5861:txuwyquy:3zrvb8axozjn. Attempting session...
+2026-01-06 11:36:45,984 - INFO - ====== WebDriver manager ======
+2026-01-06 11:36:46,789 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:36:46,857 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:36:46,925 - INFO - Driver [C:\Users\samsa\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2026-01-06 11:36:47,981 - INFO - Worker 1 started loop
+2026-01-06 11:36:47,982 - INFO - Worker 1 selected proxy: 140.99.201.36:5915:txuwyquy:3zrvb8axozjn. Attempting session...
+2026-01-06 11:36:47,987 - INFO - ====== WebDriver manager ======
+2026-01-06 11:36:48,437 - INFO - Navigating to Target: https://rumble.com/v73xnwa-supply-demand-strategy-forex-gold-silver.html?e9s=src_v1_upp_a
+2026-01-06 11:36:48,894 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:36:48,956 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:36:49,281 - INFO - Driver [C:\Users\samsa\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2026-01-06 11:36:49,608 - INFO - Session started. Target Duration: 535s
+2026-01-06 11:36:49,983 - INFO - Worker 2 started loop
+2026-01-06 11:36:50,014 - INFO - Worker 2 selected proxy: 104.252.71.83:6011:txuwyquy:3zrvb8axozjn. Attempting session...
+2026-01-06 11:36:50,018 - INFO - ====== WebDriver manager ======
+2026-01-06 11:36:51,192 - INFO - Navigating to Target: https://rumble.com/v73xnwa-supply-demand-strategy-forex-gold-silver.html?e9s=src_v1_upp_a
+2026-01-06 11:36:51,289 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:36:51,362 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:36:51,433 - INFO - Driver [C:\Users\samsa\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2026-01-06 11:36:51,646 - INFO - Session started. Target Duration: 760s
+2026-01-06 11:36:51,974 - INFO - Worker 3 started loop
+2026-01-06 11:36:51,975 - INFO - Worker 3 selected proxy: 108.165.218.13:5752:txuwyquy:3zrvb8axozjn. Attempting session...
+2026-01-06 11:36:51,978 - INFO - ====== WebDriver manager ======
+2026-01-06 11:36:53,100 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:36:53,131 - INFO - Navigating to Target: https://rumble.com/v73xnwa-supply-demand-strategy-forex-gold-silver.html?e9s=src_v1_upp_a
+2026-01-06 11:36:53,195 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:36:53,271 - INFO - Driver [C:\Users\samsa\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2026-01-06 11:36:53,980 - INFO - Worker 4 started loop
+2026-01-06 11:36:53,981 - INFO - Worker 4 selected proxy: 82.23.211.88:5417:txuwyquy:3zrvb8axozjn. Attempting session...
+2026-01-06 11:36:53,983 - INFO - ====== WebDriver manager ======
+2026-01-06 11:36:54,923 - INFO - Navigating to Target: https://rumble.com/v73xnwa-supply-demand-strategy-forex-gold-silver.html?e9s=src_v1_upp_a
+2026-01-06 11:36:55,201 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:36:55,282 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-06 11:36:55,357 - INFO - Driver [C:\Users\samsa\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2026-01-06 11:36:55,982 - INFO - Session started. Target Duration: 1743s
+2026-01-06 11:36:55,986 - INFO - Worker 5 started loop
+2026-01-06 11:36:56,842 - INFO - Navigating to Target: https://rumble.com/v73xnwa-supply-demand-strategy-forex-gold-silver.html?e9s=src_v1_upp_a
+2026-01-06 11:36:57,583 - INFO - Session started. Target Duration: 409s
+2026-01-06 11:36:57,978 - INFO - Worker 6 started loop
+2026-01-06 11:36:59,977 - INFO - Worker 7 started loop
+2026-01-06 11:37:00,003 - INFO - Session started. Target Duration: 1145s
+2026-01-06 11:37:01,262 - INFO - Session started. Target Duration: 1116s
+2026-01-06 11:37:01,983 - INFO - Worker 8 started loop
+2026-01-06 11:37:03,977 - INFO - Worker 9 started loop
+2026-01-06 11:37:05,974 - INFO - Worker 10 started loop
